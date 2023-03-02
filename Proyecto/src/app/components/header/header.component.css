@@ -1,0 +1,11 @@
+div{
+    background-color: hwb(217 16% 16%);
+}
+
+app-social{
+    float: right;
+    margin-top: 100px;
+    margin-right: 50px;
+    padding-left: 4%; 
+    padding-right: 4%;
+}
